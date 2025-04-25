@@ -1,0 +1,324 @@
+{
+    "lemon rice": {
+        "ingredients": [
+            "1 cup cooked rice",
+            "2 tbsp oil",
+            "1 tsp mustard seeds",
+            "1 tsp urad dal",
+            "2 dried red chilies",
+            "10 curry leaves",
+            "1/2 tsp turmeric powder",
+            "2 tbsp lemon juice",
+            "Salt to taste",
+            "2 tbsp peanuts (optional)"
+        ],
+        "steps": [
+            "Heat oil in a pan and add mustard seeds, urad dal, red chilies, and curry leaves",
+            "Once the mustard seeds splutter, add turmeric powder",
+            "Add cooked rice and mix well",
+            "Turn off heat and add lemon juice and salt",
+            "Mix gently and serve hot"
+        ],
+        "cooking_time": "15 minutes",
+        "difficulty": "easy",
+        "tags": ["indian", "rice", "quick"]
+    },
+    "red sauce pasta": {
+        "ingredients": [
+            "200g pasta",
+            "2 cups tomato puree",
+            "4 garlic cloves (minced)",
+            "1 tsp red chili flakes",
+            "1 tsp dried oregano",
+            "2 tbsp olive oil",
+            "Salt to taste",
+            "Fresh basil leaves"
+        ],
+        "steps": [
+            "Cook pasta al dente according to package instructions",
+            "Heat olive oil and sauté garlic until fragrant",
+            "Add tomato puree, chili flakes, oregano, and salt",
+            "Simmer for 10 minutes until sauce thickens",
+            "Toss cooked pasta in the sauce",
+            "Garnish with fresh basil"
+        ],
+        "cooking_time": "20 minutes",
+        "difficulty": "easy",
+        "tags": ["italian", "pasta", "vegetarian"]
+    },
+    "veg patty burger": {
+        "ingredients": [
+            "2 burger buns",
+            "2 veg patties (potato/carrot/beans mixture)",
+            "1 tbsp mayonnaise",
+            "1 tsp mustard sauce",
+            "Lettuce leaves",
+            "1 tomato (sliced)",
+            "1 onion (sliced)",
+            "1 cheese slice (optional)",
+            "1 tbsp butter"
+        ],
+        "steps": [
+            "Toast burger buns with butter",
+            "Fry or bake veg patties until golden brown",
+            "Mix mayonnaise and mustard sauce",
+            "Spread sauce on both buns",
+            "Layer with lettuce, tomato, onion, patty, and cheese",
+            "Serve with ketchup"
+        ],
+        "cooking_time": "15 minutes",
+        "difficulty": "easy",
+        "tags": ["snack", "burger", "vegetarian"]
+    },
+    "stir-fried noodles": {
+        "ingredients": [
+            "200g noodles",
+            "2 tbsp oil",
+            "1 cup mixed vegetables (capsicum, carrot, cabbage)",
+            "2 garlic cloves (minced)",
+            "1 tbsp soy sauce",
+            "1 tbsp vinegar",
+            "1 tsp red chili sauce",
+            "Spring onions for garnish"
+        ],
+        "steps": [
+            "Boil noodles according to package instructions and drain",
+            "Heat oil in a wok and sauté garlic",
+            "Add vegetables and stir-fry for 2-3 minutes",
+            "Add sauces and mix well",
+            "Toss in cooked noodles and stir-fry for 2 minutes",
+            "Garnish with spring onions"
+        ],
+        "cooking_time": "15 minutes",
+        "difficulty": "easy",
+        "tags": ["chinese", "noodles", "quick"]
+    },
+    "quinoa salad": {
+        "ingredients": [
+            "1 cup cooked quinoa",
+            "1 cucumber (diced)",
+            "1 tomato (diced)",
+            "1/4 cup olives",
+            "1/4 cup feta cheese",
+            "2 tbsp olive oil",
+            "1 tbsp lemon juice",
+            "Salt and pepper to taste",
+            "Fresh parsley"
+        ],
+        "steps": [
+            "Combine all vegetables and quinoa in a bowl",
+            "Whisk together olive oil, lemon juice, salt and pepper",
+            "Pour dressing over salad and toss gently",
+            "Top with feta cheese and parsley",
+            "Chill for 30 minutes before serving"
+        ],
+        "cooking_time": "20 minutes",
+        "difficulty": "easy",
+        "tags": ["healthy", "salad", "gluten-free"]
+    },
+    "vegetable stir fry": {
+        "ingredients": [
+            "2 cups mixed vegetables (broccoli, bell peppers, carrots)",
+            "2 tbsp oil",
+            "1 tbsp ginger-garlic paste",
+            "1 tbsp soy sauce",
+            "1 tsp honey",
+            "1 tsp sesame seeds",
+            "Spring onions for garnish"
+        ],
+        "steps": [
+            "Heat oil in a wok on high flame",
+            "Add ginger-garlic paste and sauté for 30 seconds",
+            "Add vegetables and stir-fry for 3-4 minutes",
+            "Mix in soy sauce and honey",
+            "Garnish with sesame seeds and spring onions"
+        ],
+        "cooking_time": "10 minutes",
+        "difficulty": "easy",
+        "tags": ["chinese", "vegetarian", "quick"]
+    },
+    "banana bread": {
+        "ingredients": [
+            "3 ripe bananas",
+            "1/3 cup melted butter",
+            "3/4 cup sugar",
+            "1 egg",
+            "1 tsp vanilla extract",
+            "1 1/2 cups flour",
+            "1 tsp baking soda",
+            "Pinch of salt"
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C)",
+            "Mash bananas and mix with melted butter",
+            "Add sugar, egg, and vanilla",
+            "Mix in flour, baking soda and salt",
+            "Pour into greased loaf pan",
+            "Bake for 50-60 minutes until toothpick comes clean"
+        ],
+        "cooking_time": "1 hour",
+        "difficulty": "medium",
+        "tags": ["baking", "dessert", "breakfast"]
+    },
+    "oats cookies": {
+        "ingredients": [
+            "1 cup oats",
+            "1/2 cup whole wheat flour",
+            "1/4 cup honey",
+            "1/4 cup melted coconut oil",
+            "1 tsp cinnamon",
+            "1/4 cup raisins",
+            "1/4 cup chopped nuts"
+        ],
+        "steps": [
+            "Preheat oven to 350°F (180°C)",
+            "Mix all dry ingredients",
+            "Add wet ingredients and mix well",
+            "Form small cookies on baking tray",
+            "Bake for 12-15 minutes until golden"
+        ],
+        "cooking_time": "25 minutes",
+        "difficulty": "easy",
+        "tags": ["healthy", "snacks", "gluten-free"]
+    },
+    "homemade butter chicken": {
+        "ingredients": [
+            "500g chicken (boneless)",
+            "1 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp garam masala",
+            "2 tbsp butter",
+            "1 onion (pureed)",
+            "1 cup tomato puree",
+            "1/2 cup cream",
+            "1 tsp kasuri methi",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Marinate chicken in yogurt and spices for 2 hours",
+            "Grill or bake chicken until cooked",
+            "Heat butter and sauté onion puree",
+            "Add tomato puree and cook until oil separates",
+            "Add cream and simmer for 5 minutes",
+            "Add chicken pieces and kasuri methi",
+            "Serve with naan"
+        ],
+        "cooking_time": "40 minutes",
+        "difficulty": "medium",
+        "tags": ["indian", "non-veg", "curry"]
+    },
+    "white sauce pasta": {
+        "ingredients": [
+            "200g pasta",
+            "2 tbsp butter",
+            "2 tbsp flour",
+            "2 cups milk",
+            "1/2 cup grated cheese",
+            "1 tsp black pepper",
+            "Salt to taste",
+            "1/4 tsp nutmeg (optional)"
+        ],
+        "steps": [
+            "Cook pasta al dente and drain",
+            "Melt butter and add flour to make roux",
+            "Gradually add milk while whisking",
+            "Add cheese, pepper, salt and nutmeg",
+            "Toss pasta in the sauce",
+            "Serve hot"
+        ],
+        "cooking_time": "20 minutes",
+        "difficulty": "medium",
+        "tags": ["italian", "pasta", "vegetarian"]
+    },
+    "chicken pizza": {
+        "ingredients": [
+            "1 pizza base",
+            "1/2 cup pizza sauce",
+            "1 cup cooked chicken (shredded)",
+            "1 cup mozzarella cheese",
+            "1/2 bell pepper (sliced)",
+            "1/2 onion (sliced)",
+            "1 tsp oregano",
+            "1 tsp chili flakes"
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C)",
+            "Spread sauce on pizza base",
+            "Add toppings and cheese",
+            "Bake for 12-15 minutes until cheese melts",
+            "Sprinkle oregano and serve hot"
+        ],
+        "cooking_time": "20 minutes",
+        "difficulty": "easy",
+        "tags": ["italian", "non-veg", "snack"]
+    },
+    "salted pancake": {
+        "ingredients": [
+            "1 cup flour",
+            "1 cup milk",
+            "1 egg",
+            "1 tbsp melted butter",
+            "1/2 tsp salt",
+            "1/4 tsp baking powder",
+            "1 tbsp chopped herbs (optional)"
+        ],
+        "steps": [
+            "Whisk all ingredients to make smooth batter",
+            "Heat non-stick pan with little oil",
+            "Pour ladleful of batter and spread",
+            "Cook until bubbles form, then flip",
+            "Cook other side until golden",
+            "Serve with chutney or ketchup"
+        ],
+        "cooking_time": "15 minutes",
+        "difficulty": "easy",
+        "tags": ["breakfast", "snack", "vegetarian"]
+    },
+    "tandoori rice": {
+        "ingredients": [
+            "1 cup basmati rice",
+            "1 tbsp tandoori masala",
+            "1 tbsp oil",
+            "1/2 cup yogurt",
+            "1 tbsp ginger-garlic paste",
+            "1/4 tsp turmeric",
+            "Salt to taste",
+            "2 cups water"
+        ],
+        "steps": [
+            "Wash and soak rice for 30 minutes",
+            "Mix yogurt with all spices",
+            "Drain rice and mix with spiced yogurt",
+            "Heat oil in cooker and add rice mixture",
+            "Add water and pressure cook for 2 whistles",
+            "Let steam release naturally"
+        ],
+        "cooking_time": "40 minutes",
+        "difficulty": "medium",
+        "tags": ["indian", "rice", "flavored"]
+    },
+    "paneer butter masala": {
+        "ingredients": [
+            "200g paneer (cubed)",
+            "2 tbsp butter",
+            "1 onion (pureed)",
+            "1 cup tomato puree",
+            "1 tbsp ginger-garlic paste",
+            "1/2 cup cream",
+            "1 tsp kasuri methi",
+            "1 tsp garam masala",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Heat butter and sauté onion puree",
+            "Add ginger-garlic paste and tomato puree",
+            "Cook until oil separates",
+            "Add cream and simmer for 5 minutes",
+            "Add paneer cubes and kasuri methi",
+            "Garnish with cream and serve hot"
+        ],
+        "cooking_time": "30 minutes",
+        "difficulty": "medium",
+        "tags": ["indian", "vegetarian", "curry"]
+    }
+}
