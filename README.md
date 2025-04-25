@@ -32,16 +32,20 @@ Create a virtual environment (optional but recommended):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 ### Install the required packages:
-
+```
 pip install -r requirements.txt
 
 pip install flask flask-cors joblib scikit-learn sentence-transformers 
-
+```
 
 ### Before running the chatbot, you need to generate the embedding model and save it.
-### Run:
-
+### To train chatbot:
+```
 python train_chatbot_model.py
-
+```
+### Run program:
+```
+python app.py
+```
