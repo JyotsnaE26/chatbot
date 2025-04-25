@@ -12,7 +12,7 @@ It uses semantic search powered by the `sentence-transformers` library and handl
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 This chatbot uses the following libraries:
 
@@ -25,7 +25,7 @@ This chatbot uses the following libraries:
 - `re`
 - `string`
 
-### 🔧 Install Dependencies
+### Install Dependencies
 
 Create a virtual environment (optional but recommended):
 
@@ -33,9 +33,15 @@ Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
+### Install the required packages:
+
 pip install -r requirements.txt
 
 pip install flask flask-cors joblib scikit-learn sentence-transformers 
+
+
+### Before running the chatbot, you need to generate the embedding model and save it.
+### Run:
 
 python train_chatbot_model.py
 
